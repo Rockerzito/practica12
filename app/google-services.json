@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "503460613171",
+    "project_id": "practica12-555d0",
+    "storage_bucket": "practica12-555d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503460613171:android:a7df538c7f42894621a746",
+        "android_client_info": {
+          "package_name": "com.example.practica12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyGbS-xPHWroIhtG6BZqxGxOJvOYI9JJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503460613171:android:3f729eb4c1c696dc21a746",
+        "android_client_info": {
+          "package_name": "mx.edu.itesca.practica12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyGbS-xPHWroIhtG6BZqxGxOJvOYI9JJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
